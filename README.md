@@ -2,7 +2,7 @@
 Beginning PHP  IST2433  Dean Powell
 CoNerd Web Page
 
-Create a web page based on something "nerdy" you like.  This can be video games, a hoppy, a job, anything you like!
+Create a web page based on something "nerdy" you like.  This can be video games, a hobby, a job, anything you like!
 
 This web page should be done in HTML and CSS only.  Do not use a HTML editor -- Code only in notepad.
 
